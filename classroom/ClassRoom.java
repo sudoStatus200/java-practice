@@ -8,7 +8,7 @@ public class ClassRoom {
         subjects.add(subject);
         ClassAsset newClassRoom = new ClassAsset(100, 50, 50, "8th class", subjects);
 
-        System.out.println("Basic class is done");
+        System.out.println("Basic class is setup");
     }
 }
 
