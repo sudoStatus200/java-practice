@@ -1,4 +1,4 @@
-package com.project.cache;
+package com.project;
 
 import static org.junit.Assert.assertTrue;
 
